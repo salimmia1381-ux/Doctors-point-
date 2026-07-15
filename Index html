@@ -1,0 +1,41 @@
+<header style="background:#0d6efd;color:white;padding:15px;text-align:center;">
+  <h1>🏥 Doctors Point</h1>
+  <p>ভালুকার বিশ্বস্ত ডাক্তার ও হাসপাতাল তথ্য সেবা</p>
+</header>
+
+<section style="background:#eaf4ff;padding:40px 20px;text-align:center;">
+  <h2>আপনার প্রয়োজনীয় ডাক্তার খুঁজুন</h2>
+  <p>বিশেষজ্ঞ ডাক্তার, হাসপাতাল ও সিরিয়াল তথ্য এক জায়গায়</p>
+
+  <input type="text" placeholder="🔍 ডাক্তারের নাম লিখুন..."
+  style="width:90%;max-width:400px;padding:12px;border-radius:8px;border:1px solid #ccc;">
+
+  <br><br>
+
+  <a href="doctors.html"
+  style="background:#0d6efd;color:white;padding:12px 20px;text-decoration:none;border-radius:8px;">
+  👨‍⚕️ সকল ডাক্তার
+  </a>
+
+  <a href="hospitals.html"
+  style="background:#198754;color:white;padding:12px 20px;text-decoration:none;border-radius:8px;">
+  🏥 হাসপাতাল
+  </a>
+</section>
+
+<section style="padding:20px;">
+<h2 align="center">⭐ জনপ্রিয় ডাক্তার</h2>
+
+<div style="background:white;padding:15px;border-radius:10px;box-shadow:0 2px 8px #ddd;margin:15px;">
+<h3>ডা. লুৎফুন নাহার</h3>
+<p>গাইনি, প্রসূতি ও স্ত্রী রোগ বিশেষজ্ঞ</p>
+<a href="doctors.html">বিস্তারিত দেখুন</a>
+</div>
+
+</section>
+
+<footer style="background:#0d6efd;color:white;text-align:center;padding:20px;">
+📞 সিরিয়াল: ০১৩১৪-৫৪০৬৯৯
+<br><br>
+© Doctors Point
+</footer>
