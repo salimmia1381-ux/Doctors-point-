@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ডাঃ Lita রানী সরকার | Doctors Point</title>
+
+<style>
+body{
+  font-family:Arial,sans-serif;
+  margin:0;
+  background:#f5f7fa;
+}
+
+.header{
+  background:#0d6efd;
+  color:white;
+  padding:25px;
+  text-align:center;
+}
+
+.card{
+  max-width:900px;
+  margin:30px auto;
+  background:white;
+  padding:25px;
+  border-radius:15px;
+  box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+img{
+  width:180px;
+  height:180px;
+  border-radius:50%;
+  object-fit:cover;
+  display:block;
+  margin:auto;
+  border:5px solid #0d6efd;
+}
+
+h2{
+  text-align:center;
+  color:#0d6efd;
+}
+
+.info{
+  margin-top:20px;
+  line-height:1.9;
+  font-size:17px;
+}
+
+.btn{
+  display:inline-block;
+  margin-top:20px;
+  padding:14px 25px;
+  background:#25D366;
+  color:white;
+  text-decoration:none;
+  border-radius:8px;
+  font-weight:bold;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>Doctors Point</h1>
+</div>
+
+<div class="card">
+  <img src="dr-nilufa-rani-sarkar.jpg" alt="ডাঃ নিলুফা রানী সরকার">
+  <h2>ডাঃ নিলুফা রানী সরকার</h2>
+
+  <div class="info">
+    <p><b>বিশেষজ্ঞতা:</b> গাইনী, বন্ধ্যা ও স্ত্রী রোগ বিশেষজ্ঞ এবং সার্জন</p>
+    <p><b>শিক্ষাগত যোগ্যতা:</b> এমবিবিএস (ঢাকা), বিসিএস (স্বাস্থ্য)</p>
+    <p><b>বিশেষ সেবা:</b> গাইনী চিকিৎসা, গর্ভবতী মা ও শিশুর যত্ন, ল্যাপারোস্কপিক সার্জারি, বন্ধ্যাত্ব চিকিৎসা</p>
+    <p><b>চেম্বার:</b> আপনার চেম্বারের ঠিকানা লিখুন</p>
+    <p><b>রোগী দেখার সময়সূচি:</b> প্রতিদিন বিকাল ৩টা থেকে রাত ১০টা পর্যন্ত</p>
+    <p><b>যোগাযোগ:</b> +8801XXXXXXXXX</p>
+  </div>
+
+  <div style="text-align:center;">
+    <a href="https://wa.me/8801XXXXXXXXX" class="btn">অ্যাপয়েন্টমেন্টের জন্য WhatsApp করুন</a>
+  </div>
+</div>
+
+</body>
+</html>
